@@ -36,7 +36,7 @@ XDMM keeps the direct, accessible workflow of the original program while extendi
   
 ![XDMM3](https://bayareaengineers.com/i/image_20261007_0059.png)  
   
-- The building prop on the left was converted to VXP2 and imported natively with full 24-bit color textures. The Undo History, Object Browser, Light Lab editor, Object Groups editor, and 4DMM console/settings windows demonstrate the expanded work environment running at full 4K (2160p) resolution.  
+- The building prop on the left was converted to VXP2 and imported natively with full 24-bit color textures. The Undo History, Object Browser, Light Lab editor, Object Groups editor, and XDMM console/settings windows demonstrate the expanded work environment running at full 4K (2160p) resolution.  
   
 ### Modern rendering  
   
