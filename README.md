@@ -26,15 +26,15 @@ XDMM keeps the direct, accessible workflow of the original program while extendi
 - Improved timeline and frame insertion workflows
 - Still to come: shaping camera movement in any axes as well as additional more sophisticated shaped-based camera movements  
   
-![XDMM sci-fi landscape 2](https://bayareaengineers.com/i/xdmm-car.png)  
+![XDMM1](https://bayareaengineers.com/i/xdmm-car.png)  
   
 - New support for reflective and translucent surfaces, with geometry-based light/shadow occlusion automatically distinguishing the car’s enclosed interior from exposed exterior surfaces.  
   
-![XDMM sci-fi landscape](https://bayareaengineers.com/i/image_20261007_082046.png)  
+![XDMM2](https://bayareaengineers.com/i/image_20261007_082046.png)  
   
 - Actor Studio allows users to create and edit animations directly inside XDMM using familiar transformation and animation tools. Saved animations integrate with the standard Action workflow and can be selected and applied like normal 3DMM actions. All interfaces shown are fully functional (unless marked WIP); window layouts and UI design remain under active development.  
   
-![XDMM sci-fi landscape](https://bayareaengineers.com/i/image_20261007_0059.png)  
+![XDMM3](https://bayareaengineers.com/i/image_20261007_0059.png)  
   
 - The building prop on the left was converted to VXP2 and imported natively with full 24-bit color textures. The Undo History, Object Browser, Light Lab editor, Object Groups editor, and 4DMM console/settings windows demonstrate the expanded work environment running at full 4K (2160p) resolution.  
   
