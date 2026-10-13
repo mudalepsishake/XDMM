@@ -26,25 +26,20 @@ XDMM keeps the direct, accessible workflow of the original program while extendi
 - Improved timeline and frame insertion workflows
 - Still to come: shaping camera movement in any axes as well as additional more sophisticated shaped-based camera movements  
   
-
-![XDMM sci-fi landscape](https://bayareaengineers.com/i/image_20261007_0059.png)  
+![XDMM sci-fi landscape 2](https://bayareaengineers.com/i/xdmm_20261006-081649.png)  
   
-- The building prop on the left was converted (to VXP2) and imported natively with full 24-bit color textures. The undo history, objects browser, light editor, object group editor, the console (settings) window, and console window show the expanded work environment running at 4K (2160p) resolution.
-  
-![XDMM sci-fi landscape 2](https://bayareaengineers.com/i/XDMM_20261006-081649.png)  
-  
-- These screenshots also show shadow casting from a single light source, 24-bit color, native high resolution rendering, per-pixel shader and lighting, multiple light objects with differing light properties, bilinear texture filtering, anisotropic filtering, and more.  
+- New support for reflective and translucent surfaces, with geometry-based light/shadow occlusion automatically distinguishing the car’s enclosed interior from exposed exterior surfaces.  
   
 ![XDMM sci-fi landscape](https://bayareaengineers.com/i/image_20261007_082046.png)  
   
-- Actor Studio allows users to create animations inside of XDMM using familiar tools. These animations can then be used in the standard Action tool animation selection workflow. User interfaces shown in screenshots are fully functional. Layouts are ongoing development.
+- Actor Studio allows users to create and edit animations directly inside XDMM using familiar transformation and animation tools. Saved animations integrate with the standard Action workflow and can be selected and applied like normal 3DMM actions. All interfaces shown are fully functional (unless marked WIP); window layouts and UI design remain under active development.  
   
-![XDMM sci-fi landscape](https://bayareaengineers.com/i/XDMM_20261006-081425.png)  
+![XDMM sci-fi landscape](https://bayareaengineers.com/i/image_20261007_0059.png)  
   
-- Developing expanded possibilities of 3D Words (modifiable depth on a per-character basis, testing new superscripting property which allows any symbol/character to be used similarly to the asterisks-based props, as well as adding tons of new symbols) -- these features will be available in an upcoming source update.  
+- The building prop on the left was converted to VXP2 and imported natively with full 24-bit color textures. The Undo History, Object Browser, Light Lab editor, Object Groups editor, and 4DMM console/settings windows demonstrate the expanded work environment running at full 4K (2160p) resolution.  
   
-### Modern rendering
-
+### Modern rendering  
+  
 - Introducing Blaze Engine--the new fully customized open-source rendering engine actively being developed alongside XDMM for its unique rendering requirements (Blazing Render-based)
 - Modern OpenGL 4.3 renderer integrated throughout the application
 - 24-bit color instead of the original 256-color rendering path
