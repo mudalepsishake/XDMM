@@ -6,7 +6,7 @@ The basic idea is **what if 3D Movie Maker had continued developing to suit the 
 
 XDMM keeps the direct, accessible workflow of the original program while extending the actual application rather than replacing it with a conventional modern DCC interface. The goal is to make substantially more capable 3D filmmaking possible without turning 3DMM into Blender, Maya, or a game engine editor.
 
-> **Status:** active development. The features below are as described but still require further integration for example with Scene Organizer capabilities as well as more stability testing. Many features are in place and ready to be finalized, other features are in development and still others are on the drawing board. File formats and UI behavior are functional but still changing so files saved with in-development versions may not be compatible with later versions.
+> **Status:** active development. The features below are as described but still require further integration for example with Scene Organizer capabilities as well as more stability testing. Many features are in place and ready to be finalized, other features are in development and still others are on the drawing board. File formats and UI behavior are functional but still changing so files saved with in-development versions may not be compatible with later versions. Reflective surfaces, expanded 3D Words and Translucent surfaces are not available in the current build but are in the proccess of add
 
 ## Highlights
 
