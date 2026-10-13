@@ -26,7 +26,7 @@ XDMM keeps the direct, accessible workflow of the original program while extendi
 - Improved timeline and frame insertion workflows
 - Still to come: shaping camera movement in any axes as well as additional more sophisticated shaped-based camera movements  
   
-![XDMM sci-fi landscape 2](https://bayareaengineers.com/i/xdmm_20261006-081649.png)  
+![XDMM sci-fi landscape 2](https://bayareaengineers.com/i/xdmm-car.png)  
   
 - New support for reflective and translucent surfaces, with geometry-based light/shadow occlusion automatically distinguishing the car’s enclosed interior from exposed exterior surfaces.  
   
