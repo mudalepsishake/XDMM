@@ -278,7 +278,7 @@ color depth argument runs XDMM in 24-bit RGB888 color mode
 ***`-a`***  
 actor shading/lighting  
 ***`-e`***  
-goes straight to editor, skips startup screen, menu screen, and mczee
+goes straight to editor, skips startup screen, menu screen, and mczee  
 ***`-u`***  
 undo history - enables the undo history window  
 ***`-w`***  
