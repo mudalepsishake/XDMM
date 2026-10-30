@@ -1,6 +1,6 @@
 # XDMM
 
-**Extended Definition Movie Maker, or XDMM as I like to call it, is an experimental continuation and major expansion of Microsoft 3D Movie Maker, built from the 3DMMEx codebase.**
+**Extended Definition Movie Maker, or XDMM, is an experimental continuation and major expansion of Microsoft 3D Movie Maker, built from the 3DMMEx codebase.**
 
 The basic idea is **what if 3D Movie Maker had continued developing to suit the evolving needs of its users instead of stopping in 1995?**
 
@@ -329,17 +329,19 @@ Recommended:
 - 16 GB RAM  
 
 XDMM currently allows for playback of existing .3MM movie files from the original 3D Movie Maker as well as watching .VMM movie files (v3DMM movies). Opening each file type is supported natively (no external software or mods are required for opening a .VMM movie file). 
-XDMM currently supports saving to .3MM files and .VMM files. Please note that depending on what is being saved, XDMM may decide to limit the file type saving options to .VMM files. Also please keep in mind that generally, XDMM will save a .3CT file alongside .VMM files as well as .3MM files. These files are all going to be packaged as one file type in the first release candidate (likely .VMM2 or .VM2 files).
+XDMM currently supports saving to .3MM files and .VMM files. Please note that depending on what is being saved, XDMM may decide to limit the file type saving options to .VMM files. Also please keep in mind that generally, XDMM will save a .3CT file alongside .VMM files as well as .3MM files. These files are all going to be packaged as one file type in the first release candidate (these will likely be .XMM, .3MMX or .3MM2 files).
 Preserving the original 3DMM experience and its existing movie/asset ecosystem is an important design goal. New functionality should extend the program without unnecessarily destroying compatibility with existing 3DMM content or the directness of the original workflow.
 
 ## Current Status: Active Development
 
-This is a list of functioning, concrete features of this application which already exist. This is not a list of ideas. The features listed in this file work as described. However, Scene Organizer functionality is under development so features here do not allow for re-arranging and importing scenes using Scene Organizer. I'll do my best to make sure that the (versions of the actively in development) source code for this project which I publish on GitHub will be as stable as possible. However, please keep in mind that stability testing is an ongoing process which is why this project does not yet have an official release. Please feel free to report crashes on here as this will help me to make the software more stable. Other current feature limitations are listed in this document. File formats and UI behavior are functional but subject to change (find out more info about this by reading this document). Files saved with in-development versions likely won't work with newer versions. 
-
-# Credits and project lineage
-
-XDMM is a continuation and major expansion of Microsoft 3D Movie Maker built from the 3DMMEx codebase.
-
+This is a list of functioning, concrete features of this application which already exist. This is not a list of ideas. The features listed in this file work as described. However, Scene Organizer functionality is under development so features here do not allow for re-arranging and importing scenes using Scene Organizer. I'll do my best to make sure that the (versions of the actively in development) source code for this project which I publish on GitHub will be as stable as possible. However, please keep in mind that stability testing is an ongoing process which is why this project does not yet have an official release. Please feel free to report crashes on here as this will help me to make the software more stable. Other current feature limitations are listed in this document. File formats and UI behavior are functional but subject to change (find out more info about this by reading this document). Files saved with in-development versions likely won't work with newer versions.  
+  
+This project hasn't gotten attention on Github so I'm mainly focusing on developing it privately at this point. If you're interested in receiving the latest build of this project, please post on this repo and I'll update the build which is available here to the latest version.  
+  
+# Credits and project lineage  
+  
+XDMM is a continuation and major expansion of Microsoft 3D Movie Maker built from the 3DMMEx codebase.  
+  
 ## Project lineage
 
 - **Microsoft 3D Movie Maker** — original application and source code, released by Microsoft under the MIT License. [https://github.com/microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
