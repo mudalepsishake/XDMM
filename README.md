@@ -336,7 +336,7 @@ Preserving the original 3DMM experience and its existing movie/asset ecosystem i
 
 This is a list of functioning, concrete features of this application which already exist. This is not a list of ideas. The features listed in this file work as described. However, Scene Organizer functionality is under development so features here do not allow for re-arranging and importing scenes using Scene Organizer. I'll do my best to make sure that the (versions of the actively in development) source code for this project which I publish on GitHub will be as stable as possible. However, please keep in mind that stability testing is an ongoing process which is why this project does not yet have an official release. Please feel free to report crashes on here as this will help me to make the software more stable. Other current feature limitations are listed in this document. File formats and UI behavior are functional but subject to change (find out more info about this by reading this document). Files saved with in-development versions likely won't work with newer versions.  
   
-This project hasn't gotten attention on Github so I'm mainly focusing on developing it privately at this point. If you're interested in receiving the latest build of this project, please post on this repo and I'll update the build which is available here to the latest version.  
+This project hasn't gotten attention on Github so I'm mainly focusing on developing it privately at this point. If you're interested in receiving the latest build of this project, please post on this repo and once I see your post I'll update the build which is available here to the latest version.  
   
 # Credits and project lineage  
   
